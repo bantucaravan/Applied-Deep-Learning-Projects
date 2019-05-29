@@ -8,5 +8,5 @@ This repo contains HW assignments and projects I completed from the [Spring 2019
 
 **Index** 
 
-- Book Text Classification
+- [Book Text Classification](/hw4.ipynb)
 
